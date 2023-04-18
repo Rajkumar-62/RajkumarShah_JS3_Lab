@@ -6,9 +6,9 @@
   
   body {
     font-family: "montserrat", "sans-serif";
-    background-image: url("C:\Users\hp\OneDrive\Desktop\Background__Image.jpg");
+    background-image: url("Background__Image.jpg");
     font-family: 'montserrat', sans-serif;
-    background-image: url('C:\Users\hp\OneDrive\Desktop\Background__Image.jpg');
+    background-image: url('Background__Image.jpg');
     background-size: cover;
     background-position: top center;
   }
@@ -36,7 +36,7 @@
     padding: 10px 15px;
     border: none;
     outline: none;
-    background-color: rgba(255, 255, 255, 0.3);
+    background-color: rgba(255, 255, 255, 0.952);
     border-bottom: 3px solid #df8e00;
     border-radius: 16px 0px 16px 0px;
     border-bottom: 3px solid #DF8E00;
